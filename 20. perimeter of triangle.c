@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main() {
-    printf("RA2211042010035 \n")
+    printf("RA2211042010035 \n");
     int base,height,perimeter;
     printf("enter the base:");
     scanf("%d",&base);
