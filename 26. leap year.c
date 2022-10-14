@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main() {
-   printf("RA2211042010035 \n")
+   printf("RA2211042010035 \n");
    int year;
    printf("Enter a year:");
    scanf("%d", &year);
