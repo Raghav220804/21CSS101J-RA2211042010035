@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main() {
-    printf("RA2211042010035 \n")
+    printf("RA2211042010035 \n");
     float farenheit,celcius;
     printf("enter the temprature in farenhiet:");
     scanf("%f",&farenheit);
