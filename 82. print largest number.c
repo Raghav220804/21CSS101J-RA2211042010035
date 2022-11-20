@@ -9,5 +9,8 @@ int main(){
     printf("The largest number : %d\n",a);
   if (b>a)
     printf("The largest number : %d\n",b);
+  if(a<b)
   printf("The smallest number : %d\n",a);
+  if(b<a)
+    printf("The smallest number : %d\n",b);
 }
