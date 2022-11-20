@@ -9,9 +9,7 @@ int main()
         break;   
         case 0:   
         printf("bye");  
-        break;  
-        default:   
-        printf(" Hello bye ");  
+        break;   
     }   
           
 }  
